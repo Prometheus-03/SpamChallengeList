@@ -2,14 +2,16 @@
     "id": 67949738,
     "name": "Crescent",
     "author": "MeowPau",
-    "creators": [Nick24],
+    "creators": [
+        "Nick24"
+    ],
     "verifier": "JRCGD",
-    "verification": "https://www.youtube.com/shorts/FG-mDyalBg0",
+    "verification": "https://youtu.be/6f3FchsizoY?si=1pdxfmqJPhDRjSYY",
     "records": [
         {
-            "user": "Ray131",
-            "link": "https://youtu.be/1g7WTO1geug?si=T0P0hOf3hA0bcS3i",
-            "hz": 60,
+            "user": "MeowPau",
+            "link": "https://youtu.be/2IchZX2jss0?si=DXDmnFct4Cc7VBPJ",
+            "hz": 360,
         }
             {
             "user": "EmpanadR",
