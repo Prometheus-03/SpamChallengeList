@@ -64,13 +64,12 @@ export async function fetchLeaderboard() {
         scoreMap[verifier] ??= {
             verified: [],
             completed: [],
-            progressed: [],
         };
         const { verified } = scoreMap[verifier];
         verified.push({
             rank: rank + 1,
             level: level.name,
-            score: score(rank + 1, 100, level.percentToQualify),
+            score: score(rank + 1),
             link: level.verification,
         });
 
@@ -89,26 +88,18 @@ export async function fetchLeaderboard() {
                 completed.push({
                     rank: rank + 1,
                     level: level.name,
-                    score: score(rank + 1, 100, level.percentToQualify),
+                    score: score(rank + 1),
                     link: record.link,
                 });
                 return;
             }
-
-            progressed.push({
-                rank: rank + 1,
-                level: level.name,
-                percent: record.percent,
-                score: score(rank + 1, record.percent, level.percentToQualify),
-                link: record.link,
-            });
         });
     });
 
     // Wrap in extra Object containing the user and total score
     const res = Object.entries(scoreMap).map(([user, scores]) => {
         const { verified, completed, progressed } = scores;
-        const total = [verified, completed, progressed]
+        const total = [verified, completed]
             .flat()
             .reduce((prev, cur) => prev + cur.score, 0);
 
