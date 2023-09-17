@@ -1,13 +1,13 @@
 {
     "id": 67949738,
-    "name": "Cherimoya",
+    "name": "Soundcloud",
     "author": "DubbyBall",
     "creators": [],
     "verifier": "DubbyBall",
     "verification": "https://youtu.be/PaAvsjeUC10",
     "records": [
         {
-            "name": "AmIaHamburger",
+            "user": "AmIaHamburger",
             "link": "https://www.youtube.com/watch?v=EaBM_w8o2Go",
             "hz": 59
         }
