@@ -6,5 +6,10 @@
     "verifier": "Needless",
     "verification": "https://youtu.be/B5WRF5shyTU",
     "records": [
+        {
+            "user": "me !",
+            "hz": 360,
+            "percent": 100
+        }
     ]
 }
