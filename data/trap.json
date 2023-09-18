@@ -41,6 +41,11 @@
             "user": "me !",
             "hz": 360,
             "percent": 100
-        }
+        },
+        {
+            "user": "AmIaHamburger",
+         "hz": 60,
+            "percent": 100
+        }  
     ]
 }
