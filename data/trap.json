@@ -18,6 +18,12 @@
          "hz": 360,
          "percent": 100,
          "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
-     }
+     },
+        {
+    "user": "JoeBTD",
+    "hz": 60,
+    "percent": 100,
+            "mobile": true
+}
     ]
 }
