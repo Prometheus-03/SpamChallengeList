@@ -17,6 +17,12 @@
             "hz": 360,
             "link": "https://www.youtube.com/watch?v=YO3wbFO6PuE",
             "percent": 100
+        },
+        {
+            "user": "AmIaHamburger",
+            "link": "https://youtu.be/1kjCDgAOfao?si=9hqXy8FD8izwsJ9D",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
