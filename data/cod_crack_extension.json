@@ -25,6 +25,12 @@
     "hz": 60,
     "percent": 100,
             "mobile": true
-}
+},
+        {
+            "user": "AmIaHamburger",
+            "link": "https://youtu.be/GJajy9TxX1s?si=65rqlMUfnarlfQ1B",
+            "hz": 60,
+            "percent": 100
+        }
     ]
 }
