@@ -21,7 +21,7 @@
 },
      {
          "user": "Frozi",
-         "hz": 360,
+         "hz": 60,
          "percent": 100,
          "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
      },
@@ -45,7 +45,7 @@
 },
      {
             "user": "me !",
-            "hz": 360,
+            "hz": 60,
             "percent": 100
         }
 ]
