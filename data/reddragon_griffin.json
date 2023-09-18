@@ -6,5 +6,11 @@
     "verifier": "thepastel",
     "verification": "https://www.youtube.com/watch?v=pAqH7r512hA&ab_channel=me%21",
     "records": [
+        {
+    "user": "JoeBTD",
+    "hz": 60,
+    "percent": 100,
+            "mobile": true
+}
     ]
 }
