@@ -24,6 +24,12 @@
     "user": "Thepastel",
     "hz": 60,
     "percent": 100
+},
+        {
+    "user": "JoeBTD",
+    "hz": 60,
+    "percent": 100,
+            "mobile": true
 }
     ]
 }
