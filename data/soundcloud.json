@@ -5,11 +5,13 @@
     "creators": [],
     "verifier": "DubbyBall",
     "verification": "https://youtu.be/PaAvsjeUC10",
+    "percentToQualify": 100,
     "records": [
         {
             "user": "AmIaHamburger",
             "link": "https://www.youtube.com/watch?v=EaBM_w8o2Go",
-            "hz": 59
+            "hz": 59,
+            "percent": 100
         }
     ]
 }
