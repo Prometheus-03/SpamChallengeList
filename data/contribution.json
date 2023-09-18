@@ -6,5 +6,10 @@
     "verifier": "AmIaHamburger",
     "verification": "https://www.youtube.com/watch?v=OkqQX2Enl-4&ab_channel=AmIaHamburger",
     "records": [
+{
+    "user": "Zenith",
+    "hz": 60,
+    "percent": 100
+}
     ]
 }
