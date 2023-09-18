@@ -6,5 +6,12 @@
     "verifier": "MM9000",
     "verification": "https://www.youtube.com/shorts/kLaFQ6Pbo6U",
     "records": [
+        
+        {
+            "user": "AmIaHamburger",
+            "hz": 360,
+            "link": "https://www.youtube.com/watch?v=ZBl1eWs9HME",
+            "percent": 100
+        }
     ]
 }
