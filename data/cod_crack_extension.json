@@ -10,13 +10,15 @@
             "user": "nucleus",
             "link": "https://youtu.be/c8NsBw7J44I?si=ksunmwKWkKxJkG6B",
             "mobile": true,
-            "hz": 60
+            "hz": 60,
+            "percent": 100
         },
         {
             "user": "Ray131",
             "link": "https://youtu.be/3p6ZUR-I1nI?si=8dLvG4n0CeotLHvm",
             "mobile": true,
-            "hz": 60
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
