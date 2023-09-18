@@ -88,30 +88,47 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Our Rules</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Must be using inputs/fingers no more than 2, some methods may be disallowed due to your type of spamming technique.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Inputs resulting from the persons action have to move in a vertical motion, regardless of the speed.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Obviously, no functions that make an action by the person increase or decrease in any way from their raw CPS is not allowed.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        FPS of a Spam Challenge must be from 59-360 FPS, old levels that used to be on the list with lower or higher refresh rates have been removed due to this rule.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Respawn Speed must be at a minimum of 0.25, although it’s not the first number to not respawn you instantly.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Recording of a Spam Challenge regardless of uploading or submitting must have audio of their clicks (SOMETIMES exceptional if you’re recording on iOS with Everyplay).
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Recording of a Spam Challenge regardless of uploading or submitting must have at least the previous attempt before the completion (it is recommended to keep your raw footage just incase if someone requests it due to possible suspicion).
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        
+Recording of a Spam Challenge regardless of its verification or submission footage must be the listed websites/recording platforms: Youtube, Twitch or Medal (When posting on Discord, it can first be a file but you will have to upload it to said websites for it to be accepted).
+                    </p>
+                    <p>
+                    Spam Challenge must be at least some dedication put into it and 2 seconds long (No Decoration is required, but means you need to put more effort into it).
+                    </p>
+                    <h3>Banned Methods (With Causes)</h3>
+                    <p>
+                    Double-clicking Butterflying (Single-clicking Butterflying is an exception)
+                    </p>
+                    <p>
+                    Any Vibration Based Methods (Dragclicking, Boltclicking, Bawlclicking, due to using vibrations from friction and not from pure momentum and speed)
+                    </p>
+                    <p>
+                    Any Non-Handed Methods (This is self-explanatory, you’re supposed to use your hand not your vibrator)
+                    </p>
+                    <p>
+                    Any Raking/-like Methods (Memeraking, Raking, due to it being based off of over 2 inputs/fingers and is not vertical spamming, rather in a pushing/pushing motion)
                     </p>
                 </div>
             </div>
