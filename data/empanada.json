@@ -12,6 +12,12 @@
     "percent": 100,
     "mobile": true,
     "link": "https://youtu.be/NQs56YEtIgM?si=e8ivc6WwvPtGyZ7l"
+},
+     {
+    "user": "JoeBTD",
+    "hz": 60,
+    "percent": 100,
+            "mobile": true
 }
 ]
 }
