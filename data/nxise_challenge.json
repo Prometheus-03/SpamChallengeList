@@ -6,5 +6,11 @@
     "verifier": "me !",
     "verification": "https://youtu.be/tN6KiyxS3gQ?t=13",
     "records": [
+        {
+            "user": "Sarnin",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=7DxAsSOoKbg",
+            "fps": 360
+        }
     ]
 }
