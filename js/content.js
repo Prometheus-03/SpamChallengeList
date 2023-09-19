@@ -63,14 +63,14 @@ export async function fetchLeaderboard() {
         ) || level.verifier;
         scoreMap[verifier] ??= {
             verified: [],
-            completed: [],
+            completed: []
         };
         const { verified } = scoreMap[verifier];
         verified.push({
             rank: rank + 1,
             level: level.name,
             score: score(rank + 1),
-            link: level.verification,
+            link: level.verification
         });
 
         // Records
@@ -106,7 +106,7 @@ export async function fetchLeaderboard() {
         return {
             user,
             total: round(total),
-            ...scores,
+            ...scores
         };
     });
 
