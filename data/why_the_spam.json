@@ -5,5 +5,12 @@
     "creators": [],
     "verifier": "xdgdytque",
     "verification": "https://www.youtube.com/watch?v=LE_Lj8jZAzc",
-    "records": []
+    "records": [
+        {
+            "user": "AmIaHamburger",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=Et1aM0GihYw"
+        }
+    ]
 }
