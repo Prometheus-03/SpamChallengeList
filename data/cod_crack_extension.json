@@ -10,13 +10,13 @@
             "user": "nucleus",
             "link": "https://youtu.be/c8NsBw7J44I?si=ksunmwKWkKxJkG6B",
             "mobile": true,
-            "hz": 60,
+            "hz": 60
         },
         {
             "user": "Ray131",
             "link": "https://youtu.be/3p6ZUR-I1nI?si=8dLvG4n0CeotLHvm",
             "mobile": true,
-            "hz": 60,
+            "hz": 60
         },
         {
             "user": "JoeBTD",
@@ -26,7 +26,7 @@
         {
             "user": "AmIaHamburger",
             "link": "https://youtu.be/GJajy9TxX1s?si=65rqlMUfnarlfQ1B",
-            "hz": 60,
+            "hz": 60
         }
     ]
 }
