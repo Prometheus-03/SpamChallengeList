@@ -6,36 +6,31 @@
     "verifier": "Needless",
     "verification": "https://www.youtube.com/watch?v=JPofpAPvoK8",
     "records": [
-{
-    "user": "Ray131",
-    "hz": 60,
-    "percent": 100,
-    "mobile": true,
-    "link": "https://youtu.be/NQs56YEtIgM?si=e8ivc6WwvPtGyZ7l"
-},
         {
-         "user": "Frozi",
-         "hz": 360,
-         "percent": 100,
-         "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
-     },
+            "user": "Ray131",
+            "hz": 60,
+            "mobile": true,
+            "link": "https://youtu.be/NQs56YEtIgM?si=e8ivc6WwvPtGyZ7l"
+        },
         {
-    "user": "JoeBTD",
-    "hz": 60,
-    "percent": 100,
+            "user": "Frozi",
+            "hz": 360,
+            "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
+        },
+        {
+            "user": "JoeBTD",
+            "hz": 60,
             "mobile": true
-},
+        },
         {
             "user": "me !",
             "hz": 360,
             "link": "https://youtu.be/9iMU4KUVrmg",
-            "percent": 100
         },
-         {
+        {
             "user": "AmIaHamburger",
             "link": "https://youtu.be/qppyGQx2_TQ?si=HTv187J1BnWjNoPd",
             "hz": 360,
-            "percent": 100
         }
     ]
 }

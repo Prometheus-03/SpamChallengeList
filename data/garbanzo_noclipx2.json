@@ -3,7 +3,7 @@
     "name": "Garbanzo noclip x2",
     "author": "MM9000",
     "creators": [
-      "Alyn, Pla"
+        "Alyn, Pla"
     ],
     "verifier": "MM9000",
     "verification": "https://www.youtube.com/watch?v=tN6KiyxS3gQ",
@@ -12,7 +12,6 @@
             "user": "me !",
             "hz": 360,
             "link": "https://youtu.be/M4SpCgQ8j80",
-            "percent": 100
         }
     ]
 }

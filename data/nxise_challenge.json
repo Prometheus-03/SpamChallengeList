@@ -8,14 +8,12 @@
     "records": [
         {
             "user": "Sarnin",
-            "percent": 100,
             "link": "https://www.youtube.com/watch?v=7DxAsSOoKbg",
             "hz": 360
         },
-              {
+        {
             "user": "AmIaHamburger",
             "hz": 360,
-            "percent": 100
         }
     ]
 }

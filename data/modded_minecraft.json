@@ -6,24 +6,21 @@
     "verifier": "DubbyBall",
     "verification": "https://www.youtube.com/watch?v=D_Yv5AhRHY0&ab_channel=RollingDubby",
     "records": [
-                {
+        {
             "user": "Ray131",
             "hz": 60,
-            "percent": 100,
             "link": "https://youtu.be/sgi1CyckP_o?si=Zs0hQAHuuWtSkRrj",
             "mobile": true
         },
-{
-    "user": "EmpanadR",
-    "link": "https://www.youtube.com/watch?v=Pbi4qpUUPXA&list=PLA5HqlDKZuIBJJrc-1j8yt-wmYlJk7m_g&index=5&pp=iAQB",
-    "hz": 59,
-    "percent": 100
-},
         {
-    "user": "JoeBTD",
-    "hz": 60,
-    "percent": 100,
+            "user": "EmpanadR",
+            "link": "https://www.youtube.com/watch?v=Pbi4qpUUPXA&list=PLA5HqlDKZuIBJJrc-1j8yt-wmYlJk7m_g&index=5&pp=iAQB",
+            "hz": 59,
+        },
+        {
+            "user": "JoeBTD",
+            "hz": 60,
             "mobile": true
-}
+        }
     ]
 }

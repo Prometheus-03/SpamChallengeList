@@ -6,17 +6,15 @@
     "verifier": "Simplic",
     "verification": "https://www.youtube.com/watch?v=4Y28Rd6TQ64",
     "records": [
-{
-    "user": "nucleus",
-    "hz": 60,
-    "mobile": true,
-    "percent": 100
-},
         {
-    "user": "JoeBTD",
-    "hz": 60,
-    "percent": 100,
+            "user": "nucleus",
+            "hz": 60,
+            "mobile": true,
+        },
+        {
+            "user": "JoeBTD",
+            "hz": 60,
             "mobile": true
-}
+        }
     ]
 }

@@ -6,10 +6,10 @@
     "verifier": "TotalDismount",
     "verification": "https://youtu.be/ohFbORwjFfI",
     "records": [
-      {
-       "user": "me !",
-       "link": "https://youtu.be/0ZtuszTw9Xk?si=B5a63RDLmYF0muO1",
-        "hz": 60
-      }
+        {
+            "user": "me !",
+            "link": "https://youtu.be/0ZtuszTw9Xk?si=B5a63RDLmYF0muO1",
+            "hz": 60
+        }
     ]
 }

@@ -6,11 +6,10 @@
     "verifier": "AmIaHamburger",
     "verification": "https://www.youtube.com/watch?v=zOF8XsQ8OU0&ab_channel=AmIaHamburger",
     "records": [
-              {
+        {
             "user": "AmIaHamburger",
             "link": "https://youtu.be/zOF8XsQ8OU0?si=TVLEKjwnusS_ZGW-",
             "hz": 360,
-            "percent": 100
         }
     ]
 }

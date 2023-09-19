@@ -6,17 +6,15 @@
     "verifier": "JoinMolten",
     "verification": "https://www.youtube.com/watch?v=6UM9FOkqjy4&t=157s&ab_channel=JoinMoltenGD",
     "records": [
-{
-         "user": "Frozi",
-         "hz": 360,
-         "percent": 100,
-         "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
-     },
         {
-    "user": "dubdundub",
-    "hz": 240,
-    "percent": 100,
+            "user": "Frozi",
+            "hz": 360,
+            "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
+        },
+        {
+            "user": "dubdundub",
+            "hz": 240,
             "link": "https://youtu.be/FaLnBZMstHU"
-}
+        }
     ]
 }

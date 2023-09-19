@@ -1,39 +1,34 @@
 {
- "id": 71327273,
- "name": "Spam for Allah",
- "author": "opakue",
- "creators": [],
- "verifier": "TASGOD",
- "verification": "https://www.youtube.com/watch?v=53HzNNQzYI4",
- "records": [
-{
-         "user": "Frozi",
-         "hz": 360,
-         "percent": 100,
-         "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
-     },
-     {
-    "user": "dubdundub",
-    "hz": 360,
-         "link": "https://youtu.be/FaLnBZMstHU",
-    "percent": 100
-},
-     {
-    "user": "JeDoesStuff",
-    "hz": 360,
-    "percent": 100,
-"link": "https://youtu.be/RspCj9Bs2Tg?si=0dxYH3esyC3i89hp"
-},
-     {
+    "id": 71327273,
+    "name": "Spam for Allah",
+    "author": "opakue",
+    "creators": [],
+    "verifier": "TASGOD",
+    "verification": "https://www.youtube.com/watch?v=53HzNNQzYI4",
+    "records": [
+        {
+            "user": "Frozi",
+            "hz": 360,
+            "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
+        },
+        {
+            "user": "dubdundub",
+            "hz": 360,
+            "link": "https://youtu.be/FaLnBZMstHU",
+        },
+        {
+            "user": "JeDoesStuff",
+            "hz": 360,
+            "link": "https://youtu.be/RspCj9Bs2Tg?si=0dxYH3esyC3i89hp"
+        },
+        {
             "user": "me !",
             "hz": 360,
-            "percent": 100
         },
-      {
+        {
             "user": "AmIaHamburger",
             "link": "https://youtu.be/XeaiIAArwpg?si=MYRtpmxiGJqx41Jj",
             "hz": 360,
-            "percent": 100
-        }  
-]
+        }
+    ]
 }

@@ -1,29 +1,29 @@
 {
- "id": 64529938,
- "name": "Spam Death",
- "author": "nintenfox",
- "creators": [],
- "verifier": "nintenfox",
- "verification": "https://www.youtube.com/watch?v=wHCTSq2GtKc",
- "records": [
-{
-    "user": "Ray131",
-    "hz": 60,
-    "percent": 100,
-    "mobile": true,
-    "link": "https://www.youtube.com/watch?v=CYCwQ1eD1Zc&list=PLPaHDgc_a-xKEHPjwWq2_vQ45shOWKyEw&index=17"
-},
+    "id": 64529938,
+    "name": "Spam Death",
+    "author": "nintenfox",
+    "creators": [],
+    "verifier": "nintenfox",
+    "verification": "https://www.youtube.com/watch?v=wHCTSq2GtKc",
+    "records": [
+    {
+        "user": "Ray131",
+        "hz": 60,
+        "percent": 100,
+        "mobile": true,
+        "link": "https://www.youtube.com/watch?v=CYCwQ1eD1Zc&list=PLPaHDgc_a-xKEHPjwWq2_vQ45shOWKyEw&index=17"
+    },
      {
-    "user": "JoeBTD",
-    "hz": 60,
-    "percent": 100,
-            "mobile": true
-},
+        "user": "JoeBTD",
+        "hz": 60,
+        "percent": 100,
+        "mobile": true
+     },
      {
-    "user": "dubdundub",
-    "hz": 60,
-    "percent": 100,
-         "link": "https://youtu.be/FaLnBZMstHU"
-}
-]
+        "user": "dubdundub",
+        "hz": 60,
+        "percent": 100,
+        "link": "https://youtu.be/FaLnBZMstHU"
+     }
+    ]
 }

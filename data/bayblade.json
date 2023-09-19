@@ -1,22 +1,20 @@
 {
- "id": 66254475,
- "name": "Bayblade",
- "author": "MeowPau",
- "creators": [],
- "verifier": "MeowPau",
- "verification": "https://www.youtube.com/watch?v=GrNDyQjFCgo",
- "records": [
-     {
-    "user": "JeDoesStuff",
-    "hz": 360,
-    "percent": 100,
-"link": "https://youtu.be/RspCj9Bs2Tg?si=0dxYH3esyC3i89hp"
-},
-     {
-         "user": "PaperGuy",
-         "link": "https://youtube.com/watch?v=IoXV2Jzvb8c&si=lzQvk0-R3Cb8mP7k",
-         "hz": 360,
-         "percent": 100
-     }
-]
+    "id": 66254475,
+    "name": "Bayblade",
+    "author": "MeowPau",
+    "creators": [],
+    "verifier": "MeowPau",
+    "verification": "https://www.youtube.com/watch?v=GrNDyQjFCgo",
+    "records": [
+        {
+            "user": "JeDoesStuff",
+            "hz": 360,
+            "link": "https://youtu.be/RspCj9Bs2Tg?si=0dxYH3esyC3i89hp"
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://youtube.com/watch?v=IoXV2Jzvb8c&si=lzQvk0-R3Cb8mP7k",
+            "hz": 360,
+        }
+    ]
 }

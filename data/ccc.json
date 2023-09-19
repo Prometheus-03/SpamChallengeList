@@ -1,38 +1,33 @@
 {
- "id": 64101174,
- "name": "cCc Last Spam Miniwa",
- "author": "JoinMolten",
- "creators": [],
- "verifier": "JoinMolten",
- "verification": "https://www.youtube.com/watch?v=pbBpRAiugd0",
- "records": [
-     {
-         "user": "Frozi",
-         "hz": 360,
-         "percent": 100,
-         "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
-     },
-     {
+    "id": 64101174,
+    "name": "cCc Last Spam Miniwa",
+    "author": "JoinMolten",
+    "creators": [],
+    "verifier": "JoinMolten",
+    "verification": "https://www.youtube.com/watch?v=pbBpRAiugd0",
+    "records": [
+        {
+            "user": "Frozi",
+            "hz": 360,
+            "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
+        },
+        {
             "user": "me !",
             "hz": 360,
             "link": "https://youtu.be/pbBpRAiugd0",
-            "percent": 100
         },
-     {
+        {
             "user": "Grilled",
             "hz": 360,
-            "percent": 100
         },
-     {
+        {
             "user": "Sarnin",
             "hz": 360,
-            "percent": 100
         },
-     {
-         "user": "dubdundub",
-         "link": "https://youtu.be/3rtwDfyOIXk",
-         "hz": 360,
-         "percent": 100
-     }
-]
+        {
+            "user": "dubdundub",
+            "link": "https://youtu.be/3rtwDfyOIXk",
+            "hz": 360,
+        }
+    ]
 }

@@ -7,10 +7,9 @@
     "verification": "https://youtu.be/qkBbCoNsVhg?si=STUvsF52C0IbSpF2",
     "records": [
         {
-    "user": "JoeBTD",
-    "hz": 60,
-    "percent": 100,
+            "user": "JoeBTD",
+            "hz": 60,
             "mobile": true
-}
+        }
     ]
 }

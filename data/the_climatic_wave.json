@@ -6,22 +6,19 @@
     "verifier": "Needless",
     "verification": "https://youtu.be/1WwAsI8I6fo",
     "records": [
-{
-         "user": "Frozi",
-         "hz": 360,
-         "percent": 100,
-         "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
-     },
         {
-"user": "dubdundub",
-"hz": 240,
-"link": "https://youtu.be/1j4MNcVxRlg",
-"percent": 100
-},
+            "user": "Frozi",
+            "hz": 360,
+            "link": "https://www.youtube.com/watch?v=XNNqUlCwT98"
+        },
+        {
+            "user": "dubdundub",
+            "hz": 240,
+            "link": "https://youtu.be/1j4MNcVxRlg",
+        },
         {
             "user": "me !",
             "hz": 360,
-            "percent": 100
         }
     ]
 }

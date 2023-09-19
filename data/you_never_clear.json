@@ -7,21 +7,18 @@
     "verification": "https://youtube.com/watch?v=pAGJ0siQIII&si=ldlaABqsqjQ_r6a5",
     "records": [
         {
-    "user": "JoeBTD",
-    "hz": 60,
-    "percent": 100,
+            "user": "JoeBTD",
+            "hz": 60,
             "mobile": true
-},
+        },
         {
-"user": "dubdundub",
-"hz": 60,
-"link": "https://youtu.be/1j4MNcVxRlg",
-"percent": 100
-},
+            "user": "dubdundub",
+            "hz": 60,
+            "link": "https://youtu.be/1j4MNcVxRlg",
+        },
         {
             "user": "me !",
             "hz": 60,
-            "percent": 100
         }
     ]
 }
