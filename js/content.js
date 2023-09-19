@@ -66,7 +66,6 @@ export async function fetchLeaderboard() {
             completed: []
         };
         const { verified } = scoreMap[verifier];
-        console.log(score(rank +1));
         verified.push({
             rank: rank + 1,
             level: level.name,
@@ -108,6 +107,7 @@ export async function fetchLeaderboard() {
     // Wrap in extra Object containing the user and total score
     const res = Object.entries(scoreMap).map(([user, scores]) => {
         const { verified, completed, progressed } = scores;
+        console.log(verified, completed, progressed);
         const total = [verified, completed, progressed]
             .flat()
             .reduce((prev, cur) => prev + cur.score, 0);
