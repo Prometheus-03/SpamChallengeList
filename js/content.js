@@ -1,4 +1,4 @@
-import { score, round } from './score.js';
+import { round, score } from './score.js';
 
 /**
  * Path to directory containing `_list.json` and all levels
