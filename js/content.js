@@ -66,6 +66,7 @@ export async function fetchLeaderboard() {
             completed: []
         };
         const { verified } = scoreMap[verifier];
+        console.log(score(rank +1));
         verified.push({
             rank: rank + 1,
             level: level.name,
