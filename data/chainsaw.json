@@ -19,6 +19,11 @@
     "percent": 100,
     "mobile": true,
     "link": "https://www.youtube.com/watch?v=tdFShPpMNf0&list=PLPaHDgc_a-xKEHPjwWq2_vQ45shOWKyEw&index=19"
-}
+},
+        {
+            "user": "Th3Name",
+            "hz": 60,
+            "percent": 100 
+        }
     ]
 }
