@@ -6,5 +6,11 @@
     "verifier": "me !",
     "verification": "https://www.youtube.com/watch?v=HjY9BtZvjM0",
     "records": [
+        {
+            "user": "9tn",
+            "link": "https://youtu.be/l0Hq10Gw3_0",
+            "hz": 360,
+            "percent": 100
+        }
     ]
 }
