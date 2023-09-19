@@ -9,7 +9,7 @@ const scale = 3;
  * @param {Number} percent Percentage of completion
  * @returns {Number}
  */
-export function score(rank, percent=100) {
+export function score(rank, percent) {
     // Old formula
     /*
     let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
@@ -18,6 +18,9 @@ export function score(rank, percent=100) {
     // New formula
     let score = Math.max(0, -24.9975*Math.pow(rank-1, 0.4) + 200);
 
+    if (percent === undefined){
+        percent = 100;
+    }
     if (percent != 100) {
         return round(score - score / 3);
     }
