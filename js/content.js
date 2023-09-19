@@ -93,20 +93,28 @@ export async function fetchLeaderboard() {
                 });
                 return;
             }
+
+            progressed.push({
+                rank: rank + 1,
+                level: level.name,
+                percent: record.percent,
+                score: score(rank + 1, record.percent),
+                link: record.link,
+            });
         });
     });
 
     // Wrap in extra Object containing the user and total score
     const res = Object.entries(scoreMap).map(([user, scores]) => {
         const { verified, completed, progressed } = scores;
-        const total = [verified, completed]
+        const total = [verified, completed, progressed]
             .flat()
             .reduce((prev, cur) => prev + cur.score, 0);
 
         return {
             user,
             total: round(total),
-            ...scores
+            ...scores,
         };
     });
 

@@ -17,7 +17,12 @@ export function score(rank) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-    return Math.max(round(-24.9975*Math.pow(rank-1, 0.4) + 200), 0);
+    score = Math.max(round(-24.9975*Math.pow(rank-1, 0.4) + 200), 0);
+    if (percent != 100) {
+        return round(score - score / 3);
+    }
+
+    return Math.max(round(score), 0);
 }
 
 export function round(num) {
