@@ -2,7 +2,9 @@
     "id": 64529938,
     "name": "Spam Death",
     "author": "nintenfox",
-    "creators": [],
+    "creators": [
+        "nintenfox, tyguy124"
+    ],
     "verifier": "nintenfox",
     "verification": "https://www.youtube.com/watch?v=wHCTSq2GtKc",
     "records": [
