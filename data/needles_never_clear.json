@@ -17,6 +17,11 @@
             "user": "JoeBTD",
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Th3Name",
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
