@@ -264,7 +264,7 @@ export default {
             );
             const a = document.createElement('a');
             a.href = URL.createObjectURL(file);
-            a.download = 'tsl_roulette';
+            a.download = 'scl_roulette';
             a.click();
             URL.revokeObjectURL(a.href);
         },
