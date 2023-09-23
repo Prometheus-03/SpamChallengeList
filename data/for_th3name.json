@@ -5,5 +5,11 @@
     "creators": [],
     "verifier": "Th3Name",
     "verification": "https://www.youtube.com/watch?v=yj0kHtEJ7kA",
-    "records": []
+    "records": [
+        {
+            "user": "me !",
+            "hz": 60,
+            "link": "https://www.youtube.com/watch?v=3VhPHvbSq38"
+        }
+    ]
 }
