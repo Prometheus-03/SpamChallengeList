@@ -5,5 +5,11 @@
     "creators": [],
     "verifier": "AmIaHamburger",
     "verification": "https://youtu.be/HwKLP8awBHA?si=xUZCaBDkzj3QA6Ye",
-    "records": []
+    "records": [
+        {
+            "user": "JoeBTD",
+            "hz": 60,
+            "mobile": true
+        }
+    ]
 }
