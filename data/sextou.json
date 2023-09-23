@@ -5,5 +5,16 @@
     "creators": [],
     "verifier": "Thepastel",
     "verification": "https://youtu.be/ChIoYybnWqA?si=gfwx9sbnso35gv6E",
-    "records": []
+    "records": [
+        {
+            "user": "JoeBTD",
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Th3Name",
+            "hz": 60,
+            "mobile": true
+        }
+    ]
 }
