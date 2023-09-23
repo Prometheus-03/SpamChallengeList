@@ -11,6 +11,11 @@
             "hz": 60,
             "link": "https://youtu.be/fJGz1bQmJWM?si=iMYUH2XQqdWQh1QI",
             "mobile": true
+        },
+        {
+            "user": "JoeBTD",
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
