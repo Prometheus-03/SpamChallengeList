@@ -5,5 +5,11 @@
     "creators": [],
     "verifier": "AmIaHamburger",
     "verification": "https://www.youtube.com/watch?v=WufW7t-G6MM&ab_channel=AmIaHamburger",
-    "records": []
+    "records": [
+        {
+            "user": "JoeBTD",
+            "hz": 60,
+            "mobile": true
+        }
+    ]
 }
