@@ -26,6 +26,11 @@
         "hz": 60,
         "percent": 100,
         "link": "https://youtu.be/FaLnBZMstHU"
-     }
+     },
+        {
+            "user": "Th3Name",
+            "hz": 60,
+            "mobile": true
+        }
     ]
 }
