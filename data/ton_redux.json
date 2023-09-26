@@ -5,5 +5,10 @@
 "creators": [],
 "verifier": "Grilled",
 "verification": "https://www.youtube.com/watch?v=C6Ov6UwCVuM&ab_channel=GrilledTG",
-"records": []
+"records": [
+    {
+        "user": "AmIaHamburger",
+        "hz": 360
+    }
+]
 }
