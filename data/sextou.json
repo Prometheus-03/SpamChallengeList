@@ -33,6 +33,11 @@
         {
             "user": "AmIaHamburger",
             "hz": 60
+        },
+        {
+            "user": "nucleus",
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
