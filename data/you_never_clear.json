@@ -29,6 +29,11 @@
             "user": "Th3Name",
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "nucleus",
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
